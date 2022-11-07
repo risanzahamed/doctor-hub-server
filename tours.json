@@ -1,0 +1,56 @@
+[
+    {
+      "category": "France Tour",
+      "name": "France Experience",
+      "duration": "10 days",
+      "price": 1412,
+      "ratings": 4,
+      "ratingsCount": 225,
+      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-1.jpg"
+    },
+    {
+      "category": "Macao Tour",
+      "name": "Macao Experience",
+      "duration": "15 days",
+      "price": 1612,
+      "ratings": 4,
+      "ratingsCount": 165,
+      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-2.jpg"
+    },
+    {
+      "category": "Turkey Tour",
+      "name": "Turkey Experience",
+      "duration": "8 days",
+      "price": 1012,
+      "ratings": 4,
+      "ratingsCount": 35,
+      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-3.jpg"
+    },
+    {
+      "category": "Bali Tour",
+      "name": "Bali Experience",
+      "duration": "7 days",
+      "price": 912,
+      "ratings": 4,
+      "ratingsCount": 67,
+      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-4.jpg"
+    },
+    {
+      "category": "Evally Tour",
+      "name": "Evally Experience",
+      "duration": "12 days",
+      "price": 1412,
+      "ratings": 4,
+      "ratingsCount": 350,
+      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-5.jpg"
+    },
+    {
+      "category": "Southland Tour",
+      "name": "Southland Experience",
+      "duration": "6 days",
+      "price": 1112,
+      "ratings": 4,
+      "ratingsCount": 400,
+      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-6.jpg"
+    }
+]
