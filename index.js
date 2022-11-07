@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 require('dotenv').config()
-const { MongoClient, ServerApiVersion } = require('mongodb');
+const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
 const port = process.env.PORT || 5000
 const app = express()
 
@@ -43,6 +43,14 @@ function run (){
             const cursor = tourCollection.find(query)
             const tour = await cursor.toArray()
             res.send(tour)
+        })
+
+        // single data load api
+        app.get('/tour/:id',async(req, res)=>{
+            const id = req.params.id
+            const query = {_id: ObjectId(id)}
+            const singleTour = await tourCollection.findOne(query)
+            res.send(singleTour)
         })
     }
     finally{
