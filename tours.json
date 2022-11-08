@@ -7,7 +7,12 @@
       "ratings": 4,
       "ratingsCount": 225,
       "img": "https://detour.hibootstrap.com/images/tour/feature-tour-1.jpg",
-      "description":"Start in Salt Lake City and end in France Tour! With the in-depth cultural tour France Parks Trail end Rapid City (Summer 2019), you have a 9 day tour package taking you through Salt Lake City, France and 12 other destinations in France.France Parks Trail end Rapid City (Summer 2019) includes accommodation in a hotel as well as an expert guide, meals, transport and more."
+      "description":"Start in Salt Lake City and end in France Tour! With the in-depth cultural tour France Parks Trail end Rapid City (Summer 2019), you have a 9 day tour package taking you through Salt Lake City, France and 12 other destinations in France.France Parks Trail end Rapid City (Summer 2019) includes accommodation in a hotel as well as an expert guide, meals, transport and more.",
+      "tourImages": {
+        "img1":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/man-in-brown-jacket-holding-phone.jpg",
+        "img2":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/HD-photo-by-Bailey-Alexander.jpg",
+        "img3":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/woman-using-gray-building-binoculars.jpg"
+      }
     },
     {
       "category": "Macao Tour",
@@ -17,7 +22,12 @@
       "ratings": 4,
       "ratingsCount": 165,
       "img": "https://detour.hibootstrap.com/images/tour/feature-tour-2.jpg",
-      "description":"Macao Tour to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+      "description":"Macao Tour to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "tourImages": {
+        "img1":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/brown-and-white-concrete-church-on-top-of-mountain-during-daytime.jpg",
+        "img2":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/Rooftop-View-1.jpg",
+        "img3":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/woman-using-gray-building-binoculars.jpg"
+      }
     },
     {
       "category": "Turkey Tour",
@@ -27,7 +37,12 @@
       "ratings": 4,
       "ratingsCount": 35,
       "img": "https://detour.hibootstrap.com/images/tour/feature-tour-3.jpg",
-      "description":"Enjoy a 8 days tour of Turkey. On the tour youll embark on an entertaining journey through Harvard Yard with a current student. Enjoy tales of Harvards history and culture as you see famous landmarks and monuments."
+      "description":"Enjoy a 8 days tour of Turkey. On the tour youll embark on an entertaining journey through Harvard Yard with a current student. Enjoy tales of Harvards history and culture as you see famous landmarks and monuments.",
+      "tourImages": {
+        "img1":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/woman-standing-on-road-near-concrete-arch-at-daytime.jpg",
+        "img2":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/person-performing-acrobats.jpg",
+        "img3":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/white-concrete-buildings.jpg"
+      }
     },
     {
       "category": "Bali Tour",
@@ -37,7 +52,12 @@
       "ratings": 4,
       "ratingsCount": 67,
       "img": "https://detour.hibootstrap.com/images/tour/feature-tour-4.jpg",
-      "description":"Thousands of migrants  of whom, many are children suffer from deadly heat conditions at the US-Mexico border. As the effects of climate change worsen day by day, extreme weather conditions are causing high risk of dehydration and death amongst migrants who try to enter the States through the Sonoran Desert"
+      "description":"Thousands of migrants  of whom, many are children suffer from deadly heat conditions at the US-Mexico border. As the effects of climate change worsen day by day, extreme weather conditions are causing high risk of dehydration and death amongst migrants who try to enter the States through the Sonoran Desert",
+      "tourImages": {
+        "img1":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/HD-photo-by-Manoj-Kulkarni.jpg",
+        "img2":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/los_angeles_1.jpg",
+        "img3":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/90375_8fa8563b.jpg"
+      }
     },
     {
       "category": "Evally Tour",
@@ -47,7 +67,12 @@
       "ratings": 4,
       "ratingsCount": 350,
       "img": "https://detour.hibootstrap.com/images/tour/feature-tour-5.jpg",
-      "description":"We provide the first empirical evidence that the physiological stresses experienced by humans attempting to cross the Sonoran Desert into the U.S. are sufficient to cause severe dehydration and associated conditions that can lead to death. A disproportionately large percentage of migrant deaths occur in areas where the predicted rates of water loss are highest,” says Ryan Long, an associate professor of wildlife sciences at the University of Idaho. Long also underlines the importance of access to drinking water supplies for preventing the risks at the highest rates of water loss during migration across the borders in the region."
+      "description":"We provide the first empirical evidence that the physiological stresses experienced by humans attempting to cross the Sonoran Desert into the U.S. are sufficient to cause severe dehydration and associated conditions that can lead to death. A disproportionately large percentage of migrant deaths occur in areas where the predicted rates of water loss are highest,” says Ryan Long, an associate professor of wildlife sciences at the University of Idaho. Long also underlines the importance of access to drinking water supplies for preventing the risks at the highest rates of water loss during migration across the borders in the region.",
+      "tourImages": {
+        "img1":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/190695_3f41dcd7.jpg",
+        "img2":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/190695_55990430.jpg",
+        "img3":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/190695_9872ba92.jpg"
+      }
     },
     {
       "category": "Southland Tour",
@@ -57,6 +82,11 @@
       "ratings": 4,
       "ratingsCount": 400,
       "img": "https://detour.hibootstrap.com/images/tour/feature-tour-6.jpg",
-      "description":"Models developed for fighting against climate change and water scarcity unfortunately show us that these type of border crossings will only become more dangerous over time, increasing the already large number of people who do not make it across. Measures must be taken immediately to mitigate this crisis."
+      "description":"Models developed for fighting against climate change and water scarcity unfortunately show us that these type of border crossings will only become more dangerous over time, increasing the already large number of people who do not make it across. Measures must be taken immediately to mitigate this crisis.",
+      "tourImages": {
+        "img1":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/90375_fbcc3a58.jpg",
+        "img2":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/90375_9eebac27.jpg",
+        "img3":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/90375_5bd5787b.jpg"
+      }
     }
 ]
