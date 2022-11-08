@@ -72,21 +72,7 @@ function run (){
         })
 
 
-          // Post api for my review
-
-          app.post('/my-review',async(req, res)=>{
-            const review = req.body
-            const result = await myReviewCollection.insertOne(review)
-            res.send(result)
-          })
-
-          // Get api for my review
-
-          app.get('/my-review', async(req, res)=>{
-            const cursor = myReviewCollection.find({})
-            const review = await cursor.toArray()
-            res.send(review)
-        })
+        
 
     }
     finally{
