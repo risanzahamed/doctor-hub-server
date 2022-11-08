@@ -1,92 +1,110 @@
 [
     {
-      "category": "France Tour",
-      "name": "France Experience",
-      "duration": "10 days",
+
+      "name": "Physiotherapy",
       "price": 1412,
       "ratings": 4,
       "ratingsCount": 225,
-      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-1.jpg",
-      "description":"Start in Salt Lake City and end in France Tour! With the in-depth cultural tour France Parks Trail end Rapid City (Summer 2019), you have a 9 day tour package taking you through Salt Lake City, France and 12 other destinations in France.France Parks Trail end Rapid City (Summer 2019) includes accommodation in a hotel as well as an expert guide, meals, transport and more.",
-      "tourImages": {
-        "img1":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/man-in-brown-jacket-holding-phone.jpg",
-        "img2":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/HD-photo-by-Bailey-Alexander.jpg",
-        "img3":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/woman-using-gray-building-binoculars.jpg"
+      "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-1.jpg",
+      "description":"Physiotherapists are movement specialists whose training involves University degree level study medical science subjects such as anatomy, physiology, biomechanics and psychology. Physiotherapists also study a wide variety of treatment techniques, and continue to do so throughout their career. Aenean semper nunc nunc, et feugiat ex pretium uuisque id tortor finibus leo commodo vulputate. Fusce lacinia fringilla nisi, quis dapibus justo scelerorbi euismod consectetur orci sed pulvinaruspendisse apienauris suscipit mattis eros.",
+      "special-care": {
+        "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
+        "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
+      },
+      "images": {
+        "img1":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
+        "img2":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
+        "img3":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
       }
     },
     {
-      "category": "Macao Tour",
-      "name": "Macao Experience",
-      "duration": "15 days",
-      "price": 1612,
-      "ratings": 4,
-      "ratingsCount": 165,
-      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-2.jpg",
-      "description":"Macao Tour to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
-      "tourImages": {
-        "img1":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/brown-and-white-concrete-church-on-top-of-mountain-during-daytime.jpg",
-        "img2":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/Rooftop-View-1.jpg",
-        "img3":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/woman-using-gray-building-binoculars.jpg"
-      }
-    },
-    {
-      "category": "Turkey Tour",
-      "name": "Turkey Experience",
-      "duration": "8 days",
-      "price": 1012,
-      "ratings": 4,
-      "ratingsCount": 35,
-      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-3.jpg",
-      "description":"Enjoy a 8 days tour of Turkey. On the tour youll embark on an entertaining journey through Harvard Yard with a current student. Enjoy tales of Harvards history and culture as you see famous landmarks and monuments.",
-      "tourImages": {
-        "img1":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/woman-standing-on-road-near-concrete-arch-at-daytime.jpg",
-        "img2":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/person-performing-acrobats.jpg",
-        "img3":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/white-concrete-buildings.jpg"
-      }
-    },
-    {
-      "category": "Bali Tour",
-      "name": "Bali Experience",
-      "duration": "7 days",
-      "price": 912,
-      "ratings": 4,
-      "ratingsCount": 67,
-      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-4.jpg",
-      "description":"Thousands of migrants  of whom, many are children suffer from deadly heat conditions at the US-Mexico border. As the effects of climate change worsen day by day, extreme weather conditions are causing high risk of dehydration and death amongst migrants who try to enter the States through the Sonoran Desert",
-      "tourImages": {
-        "img1":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/HD-photo-by-Manoj-Kulkarni.jpg",
-        "img2":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/los_angeles_1.jpg",
-        "img3":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/90375_8fa8563b.jpg"
-      }
-    },
-    {
-      "category": "Evally Tour",
-      "name": "Evally Experience",
-      "duration": "12 days",
+
+      "name": "Diagnostics",
       "price": 1412,
       "ratings": 4,
-      "ratingsCount": 350,
-      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-5.jpg",
-      "description":"We provide the first empirical evidence that the physiological stresses experienced by humans attempting to cross the Sonoran Desert into the U.S. are sufficient to cause severe dehydration and associated conditions that can lead to death. A disproportionately large percentage of migrant deaths occur in areas where the predicted rates of water loss are highest,” says Ryan Long, an associate professor of wildlife sciences at the University of Idaho. Long also underlines the importance of access to drinking water supplies for preventing the risks at the highest rates of water loss during migration across the borders in the region.",
-      "tourImages": {
-        "img1":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/190695_3f41dcd7.jpg",
-        "img2":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/190695_55990430.jpg",
-        "img3":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/190695_9872ba92.jpg"
+      "ratingsCount": 225,
+      "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-2.jpg",
+      "description":"Each of our Diagnostic Services meet established and nationally recognized quality standards, and are fully accredited by the various governing bodies for each specialty lorem ipsums sitamets disores.Bone Density is the most accurate method of diagnosing osteoporosis. Patients lie on a padded table as the detector passes, hips, or wrist.Having an x-ray is like having a picture taken. High energy waves – x-ray beams – pass through the body to project an image on a film cassette.",
+      "special-care": {
+        "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
+        "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
+      },
+      "images": {
+        "img1":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
+        "img2":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
+        "img3":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
       }
     },
     {
-      "category": "Southland Tour",
-      "name": "Southland Experience",
-      "duration": "6 days",
-      "price": 1112,
+
+      "name": "Manual Therapy",
+      "price": 1412,
       "ratings": 4,
-      "ratingsCount": 400,
-      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-6.jpg",
-      "description":"Models developed for fighting against climate change and water scarcity unfortunately show us that these type of border crossings will only become more dangerous over time, increasing the already large number of people who do not make it across. Measures must be taken immediately to mitigate this crisis.",
-      "tourImages": {
-        "img1":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/90375_fbcc3a58.jpg",
-        "img2":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/90375_9eebac27.jpg",
-        "img3":"https://modtour.travelerwp.com/wp-content/uploads/2022/04/90375_5bd5787b.jpg"
+      "ratingsCount": 225,
+      "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/manual-left.jpg",
+      "description":"Manual therapy is helpful for the treatment of joints and muscles that lack adequate mobility and range of motion. This limitation can cause discomfort, pain, and an alteration in function, posture, and mobility.We have a wealth of experience in making recommendations for sport return and training considerations. Careful consideration is taken with the development, health, and return-to-sport concerns of the female athlete.",
+      "special-care": {
+        "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
+        "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
+      },
+      "images": {
+        "img1":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
+        "img2":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
+        "img3":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
+      }
+    },
+    {
+
+      "name": "Massage Therapy",
+      "price": 1412,
+      "ratings": 4,
+      "ratingsCount": 225,
+      "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-4.jpg",
+      "description":"Massage therapy is a form of bodywork that is used to improve function within the body. By using their hands in a variety of different techniques to Increases flexibility and strength of joints.Physiotherapists also study a wide variety of treatment techniques, and continue to do so throughout their career. Aenean semper nunc nunc, et feugiat ex pretium uuisque id tortor finibus leo commodo vulputate. Fusce lacinia fringilla nisi, quis dapibus justo scelerorbi euismod consectetur orci sed pulvinaruspendisse apienauris suscipit mattis eros.",
+      "special-care": {
+        "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
+        "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
+      },
+      "images": {
+        "img1":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
+        "img2":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
+        "img3":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
+      }
+    },
+    {
+
+      "name": "Sports Therapy",
+      "price": 1412,
+      "ratings": 4,
+      "ratingsCount": 225,
+      "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-9.jpg",
+      "description":"Sports physiotherapists have excellent knowledge of diagnosis of injury within a sporting context. With an early accurate diagnosis the injury can be appropriately treatment techniques.We specialise in Exercise Physiology and problemsSPORT INJURY  Acute injuries  Acute injuries occur consequently of rapid trauma to muscle, cartilage, disc, tendon or ligament. Surgical Rehabilitation Surgical is the future a mature of rehabilitation is required to construct strength, report and flexibility to ensure a safe reward to your sport and allowing you to charity at your best. Chronic injuries These injuries are often joined gone faulty biomechanics or follow an initial acute offend.",
+      "special-care": {
+        "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
+        "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
+      },
+      "images": {
+        "img1":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
+        "img2":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
+        "img3":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
+      }
+    },
+    {
+
+      "name": "Acupuncture",
+      "price": 1412,
+      "ratings": 4,
+      "ratingsCount": 225,
+      "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-6.jpg",
+      "description":"Acupuncture is a process which stimulates points on the body using fine needles, finger or hand pressure to affect physical & mental health.It is also useful for clearing up pain issues and for managing stress relief and chronic and acute conditions. Our skilled physiotherapists and myotherapists can identify where the knots in the muscles are and use dry needling to compliment other manual treatment to speed up your recovery.if your physiotherapist believes it will help to improve the effectiveness of your overall treatment. Your treatment will consist of the insertion of fine needles into various sites on the body, dependent on your issues.",
+      "special-care": {
+        "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
+        "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
+      },
+      "images": {
+        "img1":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
+        "img2":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
+        "img3":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
       }
     }
 ]

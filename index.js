@@ -27,31 +27,67 @@ console.log(uri);
 
 function run (){
     try{
-        const tourCollection = client.db("tour-website").collection("tour")
+        const servicesCollection = client.db("doctorHub").collection("services")
+        const myServiceCollection = client.db("doctorHub").collection("my-services")
+        const myReviewCollection = client.db("doctorHub").collection("my-review")
 
         // 3 tour collections
-        app.get('/tour', async(req, res)=>{
+        app.get('/services', async(req, res)=>{
             const query = {}
-            const cursor = tourCollection.find(query).limit(3)
-            const tour = await cursor.toArray()
-            res.send(tour)
+            const cursor = servicesCollection.find(query).limit(3)
+            const service = await cursor.toArray()
+            res.send(service)
         })
 
            // 3 tour collections
-        app.get('/tour-collection', async(req, res)=>{
+        app.get('/services-collection', async(req, res)=>{
             const query = {}
-            const cursor = tourCollection.find(query)
-            const tour = await cursor.toArray()
-            res.send(tour)
+            const cursor = servicesCollection.find(query)
+            const service = await cursor.toArray()
+            res.send(service)
         })
 
         // single data load api
-        app.get('/tour/:id',async(req, res)=>{
+        app.get('/services/:id',async(req, res)=>{
             const id = req.params.id
             const query = {_id: ObjectId(id)}
-            const singleTour = await tourCollection.findOne(query)
-            res.send(singleTour)
+            const singleService = await servicesCollection.findOne(query)
+            res.send(singleService)
         })
+
+        // Post api for my service
+
+        app.post('/my-service',async(req, res)=>{
+            const service = req.body
+            const result = await myServiceCollection.insertOne(service)
+            res.send(result)
+        })
+
+          // Get api for my service
+
+        app.get('/my-service', async(req, res)=>{
+            const cursor = myServiceCollection.find({})
+            const service = await cursor.toArray()
+            res.send(service)
+        })
+
+
+          // Post api for my review
+
+          app.post('/my-review',async(req, res)=>{
+            const review = req.body
+            const result = await myReviewCollection.insertOne(review)
+            res.send(result)
+          })
+
+          // Get api for my review
+
+          app.get('/my-review', async(req, res)=>{
+            const cursor = myReviewCollection.find({})
+            const review = await cursor.toArray()
+            res.send(review)
+        })
+
     }
     finally{
 
