@@ -6,7 +6,8 @@
       "price": 1412,
       "ratings": 4,
       "ratingsCount": 225,
-      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-1.jpg"
+      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-1.jpg",
+      "description":"Start in Salt Lake City and end in France Tour! With the in-depth cultural tour France Parks Trail end Rapid City (Summer 2019), you have a 9 day tour package taking you through Salt Lake City, France and 12 other destinations in France.France Parks Trail end Rapid City (Summer 2019) includes accommodation in a hotel as well as an expert guide, meals, transport and more."
     },
     {
       "category": "Macao Tour",
@@ -15,7 +16,8 @@
       "price": 1612,
       "ratings": 4,
       "ratingsCount": 165,
-      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-2.jpg"
+      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-2.jpg",
+      "description":"Macao Tour to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
     },
     {
       "category": "Turkey Tour",
@@ -24,7 +26,8 @@
       "price": 1012,
       "ratings": 4,
       "ratingsCount": 35,
-      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-3.jpg"
+      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-3.jpg",
+      "description":"Enjoy a 8 days tour of Turkey. On the tour youll embark on an entertaining journey through Harvard Yard with a current student. Enjoy tales of Harvards history and culture as you see famous landmarks and monuments."
     },
     {
       "category": "Bali Tour",
@@ -33,7 +36,8 @@
       "price": 912,
       "ratings": 4,
       "ratingsCount": 67,
-      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-4.jpg"
+      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-4.jpg",
+      "description":"Thousands of migrants  of whom, many are children suffer from deadly heat conditions at the US-Mexico border. As the effects of climate change worsen day by day, extreme weather conditions are causing high risk of dehydration and death amongst migrants who try to enter the States through the Sonoran Desert"
     },
     {
       "category": "Evally Tour",
@@ -42,7 +46,8 @@
       "price": 1412,
       "ratings": 4,
       "ratingsCount": 350,
-      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-5.jpg"
+      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-5.jpg",
+      "description":"We provide the first empirical evidence that the physiological stresses experienced by humans attempting to cross the Sonoran Desert into the U.S. are sufficient to cause severe dehydration and associated conditions that can lead to death. A disproportionately large percentage of migrant deaths occur in areas where the predicted rates of water loss are highest,” says Ryan Long, an associate professor of wildlife sciences at the University of Idaho. Long also underlines the importance of access to drinking water supplies for preventing the risks at the highest rates of water loss during migration across the borders in the region."
     },
     {
       "category": "Southland Tour",
@@ -51,6 +56,7 @@
       "price": 1112,
       "ratings": 4,
       "ratingsCount": 400,
-      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-6.jpg"
+      "img": "https://detour.hibootstrap.com/images/tour/feature-tour-6.jpg",
+      "description":"Models developed for fighting against climate change and water scarcity unfortunately show us that these type of border crossings will only become more dangerous over time, increasing the already large number of people who do not make it across. Measures must be taken immediately to mitigate this crisis."
     }
 ]
