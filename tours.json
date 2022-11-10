@@ -1,140 +1,176 @@
 [
-    {
-      "category": "Physiotherapist",
-      "name": "Physiotherapy",
-      "price": 250,
-      "ratings": 4.7,
-      "ratingsCount": 225,
-      "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-1.jpg",
-      "description":"Physiotherapists are movement specialists whose training involves University degree level study medical science subjects such as anatomy, physiology, biomechanics and psychology. Physiotherapists also study a wide variety of treatment techniques, and continue to do so throughout their career. Aenean semper nunc nunc, et feugiat ex pretium uuisque id tortor finibus leo commodo vulputate. Fusce lacinia fringilla nisi, quis dapibus justo scelerorbi euismod consectetur orci sed pulvinaruspendisse apienauris suscipit mattis eros.",
-      "specialCare": {
-        "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
-        "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
-      },
-      "images": {
-        "img1":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
-        "img2":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
-        "img3":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
-      },
-      "reviews":{
-        "review01":"I was extremely fortunate to have Dr Mahfuzur Rahman, Physician’s Assistant Natalia, Staff Team Mellissa, and Courtney from the Orthopaedic institute of Riverside Orthopaedics: Hip and Knee Replacement Specialist on my side. I suffer from severe Osteoarthritis. After years of suffering, I was in dire need of one Hip replacement and two knee replacements in their entirety. Their mission is so far 2/3rds successfully accomplished! One more knee to replace in January of 2022. I am in awe with their great dedication, superior knowledge, and wonderful bedside manner. This entire staff under Dr Mahfuzur Rahman’ supervision went beyond my expectations in the total replacement of these joints. I am extremely lucky to have been under their care. I am recovering swiftly. I want to give a heartfelt Thank you to Dr. Kassapidis, his staff and his surgical team for the wonderful commitment towards my recovery. Thank you and bless you!!",
-        "review02":"Dr Mahfuzur was fantastic from start to finish. He replaced my right knee 2/12/2020 & my left 2/24/2021. He has an awesome bedside manner. I am extremely pleased with the outcome of both procedures. I recommend my Dr Kassipidis to everybody I meet that has knee issues.",
-        "review03":"Dr. Mahfuz replaced my right knee. The pain continued. After six months, he explained the pain was caused by scar tissue and that another quick surgery would remove scar tissue. End result? It's been a year and I still have pain. I would not recommend Dr. Mahfuz."
-      }
+  {
+    "category": "Physiotherapist",
+    "name": "Physiotherapy",
+    "price": 250,
+    "ratings": 4.7,
+    "ratingsCount": 225,
+    "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-1.jpg",
+    "description": "Physiotherapists are movement specialists whose training involves University degree level study medical science subjects such as anatomy, physiology, biomechanics and psychology. Physiotherapists also study a wide variety of treatment techniques, and continue to do so throughout their career. Aenean semper nunc nunc, et feugiat ex pretium uuisque id tortor finibus leo commodo vulputate. Fusce lacinia fringilla nisi, quis dapibus justo scelerorbi euismod consectetur orci sed pulvinaruspendisse apienauris suscipit mattis eros.",
+    "specialCare": {
+      "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
+      "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
     },
-    {
-      "category": "Diagnostics",
-      "name": "Diagnostics",
-      "price": 350,
-      "ratings": 4.4,
-      "ratingsCount": 225,
-      "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-2.jpg",
-      "description":"Each of our Diagnostic Services meet established and nationally recognized quality standards, and are fully accredited by the various governing bodies for each specialty lorem ipsums sitamets disores.Bone Density is the most accurate method of diagnosing osteoporosis. Patients lie on a padded table as the detector passes, hips, or wrist.Having an x-ray is like having a picture taken. High energy waves – x-ray beams – pass through the body to project an image on a film cassette.",
-      "specialCare": {
-        "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
-        "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
-      },
-      "images": {
-        "img1":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
-        "img2":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
-        "img3":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
-      },
-      "reviews":{
-        "review01":"To the point listens all-around good surgeon.",
-        "review02":"Dr Mahfuz was fantastic from start to finish. He replaced my right knee 2/12/2020 & my left 2/24/2021. He has an awesome bedside manner. I am extremely pleased with the outcome of both procedures. I recommend my Dr Mahfuz to everybody I meet that has knee issues.",
-        "review03":"Dr. Mahfuz was fantastic from start to finish. He replaced my right knee 2/12/2020 & my left 2/24/2021. He has an awesome bedside manner. I am extremely pleased with the outcome of both procedures. I recommend my Dr. Mahfuz to everybody I meet that has knee issues."
-      }
+    "images": {
+      "img1": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
+      "img2": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
+      "img3": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
     },
-    {
-      "category": "Manual Therapist",
-      "name": "Manual Therapy",
-      "price": 200,
-      "ratings": 4.2,
-      "ratingsCount": 225,
-      "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/manual-left.jpg",
-      "description":"Manual therapy is helpful for the treatment of joints and muscles that lack adequate mobility and range of motion. This limitation can cause discomfort, pain, and an alteration in function, posture, and mobility.We have a wealth of experience in making recommendations for sport return and training considerations. Careful consideration is taken with the development, health, and return-to-sport concerns of the female athlete.",
-      "specialCare": {
-        "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
-        "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
+    "reviews": [
+      {
+        "review01": "I was extremely fortunate to have Dr Mahfuzur Rahman, Physician’s Assistant Natalia, Staff Team Mellissa, and Courtney from the Orthopaedic institute of Riverside Orthopaedics: Hip and Knee Replacement Specialist on my side. I suffer from severe Osteoarthritis. After years of suffering, I was in dire need of one Hip replacement and two knee replacements in their entirety. Their mission is so far 2/3rds successfully accomplished! One more knee to replace in January of 2022. I am in awe with their great dedication, superior knowledge, and wonderful bedside manner. This entire staff under Dr Mahfuzur Rahman’ supervision went beyond my expectations in the total replacement of these joints. I am extremely lucky to have been under their care. I am recovering swiftly. I want to give a heartfelt Thank you to Dr. Kassapidis, his staff and his surgical team for the wonderful commitment towards my recovery. Thank you and bless you!!"
       },
-      "images": {
-        "img1":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
-        "img2":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
-        "img3":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
+      {
+        "review02": "Dr Mahfuzur was fantastic from start to finish. He replaced my right knee 2/12/2020 & my left 2/24/2021. He has an awesome bedside manner. I am extremely pleased with the outcome of both procedures. I recommend my Dr Kassipidis to everybody I meet that has knee issues."
       },
-      "reviews":{
-        "review01":"Dr. Mahfuz's superb surgical experience, professionalism, and excellent reputation made me feel safe and ready for my ACL reconstruction and medial meniscus repair. I am on my 5th month of rehabilitation- running, jumping, rediscovering activities I thought I'd lost forever. Dr. Mahfuz brought me back to active life! His professional attitude spoke volumes and we established a trustful relationship. Dr. Mahfuz was very meticulous in examining and diagnosing me. During every visit he gave me 100% of his attention, thorough information and evaluation of my medical state, answered all my questions, listened carefully, and made me feel understood. He and his office were in constant communication since the moment I became their patient. Now I am complete again and reaching back to 100%. Thank you !",
-        "review02":"Front desk needs to perk up a little. But he and his MA and PA are very knowledgeable. Very caring. He is not like other surgeons I've been to in which they mention surgery if it's not needed or may make things worse. He is very helpful and knows his stuff.",
-        "review03":"I had the most amazing experience with Dr. Mahfuz. He was not only professional, but his bedside manner was like nothing I have ever experienced. His attitude towards educating me with regards to my needs were like no other Dr I have seen. His medical knowledge was unparrelled. I would recommend..."
+      {
+        "review03": "Dr. Mahfuz replaced my right knee. The pain continued. After six months, he explained the pain was caused by scar tissue and that another quick surgery would remove scar tissue. End result? It's been a year and I still have pain. I would not recommend Dr. Mahfuz."
       }
+    ]
+  },
+  {
+    "category": "Diagnostics",
+    "name": "Diagnostics",
+    "price": 350,
+    "ratings": 4.4,
+    "ratingsCount": 225,
+    "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-2.jpg",
+    "description": "Each of our Diagnostic Services meet established and nationally recognized quality standards, and are fully accredited by the various governing bodies for each specialty lorem ipsums sitamets disores.Bone Density is the most accurate method of diagnosing osteoporosis. Patients lie on a padded table as the detector passes, hips, or wrist.Having an x-ray is like having a picture taken. High energy waves – x-ray beams – pass through the body to project an image on a film cassette.",
+    "specialCare": {
+      "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
+      "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
     },
-    {
-      "category": "Massage Therapist",
-      "name": "Massage Therapy",
-      "price": 350,
-      "ratings": 4.00,
-      "ratingsCount": 225,
-      "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-4.jpg",
-      "description":"Massage therapy is a form of bodywork that is used to improve function within the body. By using their hands in a variety of different techniques to Increases flexibility and strength of joints.Physiotherapists also study a wide variety of treatment techniques, and continue to do so throughout their career. Aenean semper nunc nunc, et feugiat ex pretium uuisque id tortor finibus leo commodo vulputate. Fusce lacinia fringilla nisi, quis dapibus justo scelerorbi euismod consectetur orci sed pulvinaruspendisse apienauris suscipit mattis eros.",
-      "specialCare": {
-        "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
-        "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
-      },
-      "images": {
-        "img1":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
-        "img2":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
-        "img3":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
-      },
-      "reviews":{
-        "review01":"I found Dr. Mahfuz to be very pleasant and very knowledgeable. He listened to all the nuances of my condition and explained in depth in a way that I could understand what was causing the pain. He gave me advice on how to proceed and was very confident in what he was suggesting. There was no wait...",
-        "review02":"Dr. Mahfuz is an amazing & dedicated Dr. I had total hip replacement in Sept of 2020. I havent felt this good in quite sometime. The staff there is very professional. I would strongly recommend him to anyone who is in need of a surgeon.",
-        "review03":"He is an awesome person, i will be seeing him next week to discuss knee replacement"
-      }
+    "images": {
+      "img1": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
+      "img2": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
+      "img3": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
     },
-    {
-      "category": "Sports Therapist",
-      "name": "Sports Therapy",
-      "price": 400,
-      "ratings": 5.00,
-      "ratingsCount": 225,
-      "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-9.jpg",
-      "description":"Sports physiotherapists have excellent knowledge of diagnosis of injury within a sporting context. With an early accurate diagnosis the injury can be appropriately treatment techniques.We specialise in Exercise Physiology and problemsSPORT INJURY  Acute injuries  Acute injuries occur consequently of rapid trauma to muscle, cartilage, disc, tendon or ligament. Surgical Rehabilitation Surgical is the future a mature of rehabilitation is required to construct strength, report and flexibility to ensure a safe reward to your sport and allowing you to charity at your best. Chronic injuries These injuries are often joined gone faulty biomechanics or follow an initial acute offend.",
-      "specialCare": {
-        "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
-        "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
+    "reviews": [
+      {
+        "review01": "To the point listens all-around good surgeon."
       },
-      "images": {
-        "img1":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
-        "img2":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
-        "img3":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
+      {
+        "review02": "Dr Mahfuz was fantastic from start to finish. He replaced my right knee 2/12/2020 & my left 2/24/2021. He has an awesome bedside manner. I am extremely pleased with the outcome of both procedures. I recommend my Dr Mahfuz to everybody I meet that has knee issues."
       },
-      "reviews":{
-        "review01":"My visit was a breeze from strart to finish. Making an appointment for a visit is easy and the staff is knowledgeable and helpful",
-        "review02":"I want to write this letter and thank Dr. Mahfuz for his amazing and professional work. He performed surgery twice with an exceptional results. I am very proud to say that I am happy to know this man personally and would recommend everyone to visit him. Thank you Dr. Mahfuz.",
-        "review03":"He is such a Amazing Doctor he gave me my Life Back I have been sending people to him"
+      {
+        "review03": "Dr. Mahfuz was fantastic from start to finish. He replaced my right knee 2/12/2020 & my left 2/24/2021. He has an awesome bedside manner. I am extremely pleased with the outcome of both procedures. I recommend my Dr. Mahfuz to everybody I meet that has knee issues."
       }
+    ]
+  },
+  {
+    "category": "Manual Therapist",
+    "name": "Manual Therapy",
+    "price": 200,
+    "ratings": 4.2,
+    "ratingsCount": 225,
+    "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/manual-left.jpg",
+    "description": "Manual therapy is helpful for the treatment of joints and muscles that lack adequate mobility and range of motion. This limitation can cause discomfort, pain, and an alteration in function, posture, and mobility.We have a wealth of experience in making recommendations for sport return and training considerations. Careful consideration is taken with the development, health, and return-to-sport concerns of the female athlete.",
+    "specialCare": {
+      "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
+      "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
     },
-    {
-      "category": "Acupuncture",
-      "name": "Acupuncture",
-      "price": 500,
-      "ratings": 4.89,
-      "ratingsCount": 225,
-      "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-6.jpg",
-      "description":"Acupuncture is a process which stimulates points on the body using fine needles, finger or hand pressure to affect physical & mental health.It is also useful for clearing up pain issues and for managing stress relief and chronic and acute conditions. Our skilled physiotherapists and myotherapists can identify where the knots in the muscles are and use dry needling to compliment other manual treatment to speed up your recovery.if your physiotherapist believes it will help to improve the effectiveness of your overall treatment. Your treatment will consist of the insertion of fine needles into various sites on the body, dependent on your issues.",
-      "specialCare": {
-        "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
-        "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
+    "images": {
+      "img1": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
+      "img2": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
+      "img3": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
+    },
+    "reviews": [
+      {
+        "review01": "Dr. Mahfuz's superb surgical experience, professionalism, and excellent reputation made me feel safe and ready for my ACL reconstruction and medial meniscus repair. I am on my 5th month of rehabilitation- running, jumping, rediscovering activities I thought I'd lost forever. Dr. Mahfuz brought me back to active life! His professional attitude spoke volumes and we established a trustful relationship. Dr. Mahfuz was very meticulous in examining and diagnosing me. During every visit he gave me 100% of his attention, thorough information and evaluation of my medical state, answered all my questions, listened carefully, and made me feel understood. He and his office were in constant communication since the moment I became their patient. Now I am complete again and reaching back to 100%. Thank you !"
       },
-      "images": {
-        "img1":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
-        "img2":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
-        "img3":"http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
+      {
+        "review02": "Front desk needs to perk up a little. But he and his MA and PA are very knowledgeable. Very caring. He is not like other surgeons I've been to in which they mention surgery if it's not needed or may make things worse. He is very helpful and knows his stuff."
       },
-      "reviews":{
-        "review01":"Dr. Mahfuz did both of my hip replacement and feel so good like my old self and every time I go to his office his staff are so professional I would recommend him to all my friends and relatives",
-        "review02":"I have been with Dr. Mahfuz for 1 year,he is very professional and has such an easy way of him I was very comfortable with,he explained everything I needed to know where I could understand my knee surgery. Always with a smile",
-        "review03":"I am very happy that I chose Dr. Mahfuz, I had a total knee replacement done in 2016 and it was very successful. Thanks to him I can now enjoy playing with my grandchildren, he changed my life and I am so greateful I met and trusted him. Steven N."
+      {
+        "review03": "I had the most amazing experience with Dr. Mahfuz. He was not only professional, but his bedside manner was like nothing I have ever experienced. His attitude towards educating me with regards to my needs were like no other Dr I have seen. His medical knowledge was unparrelled. I would recommend..."
       }
-    }
+    ]
+  },
+  {
+    "category": "Massage Therapist",
+    "name": "Massage Therapy",
+    "price": 350,
+    "ratings": 4.00,
+    "ratingsCount": 225,
+    "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-4.jpg",
+    "description": "Massage therapy is a form of bodywork that is used to improve function within the body. By using their hands in a variety of different techniques to Increases flexibility and strength of joints.Physiotherapists also study a wide variety of treatment techniques, and continue to do so throughout their career. Aenean semper nunc nunc, et feugiat ex pretium uuisque id tortor finibus leo commodo vulputate. Fusce lacinia fringilla nisi, quis dapibus justo scelerorbi euismod consectetur orci sed pulvinaruspendisse apienauris suscipit mattis eros.",
+    "specialCare": {
+      "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
+      "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
+    },
+    "images": {
+      "img1": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
+      "img2": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
+      "img3": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
+    },
+    "reviews": [
+      {
+        "review01": "I found Dr. Mahfuz to be very pleasant and very knowledgeable. He listened to all the nuances of my condition and explained in depth in a way that I could understand what was causing the pain. He gave me advice on how to proceed and was very confident in what he was suggesting. There was no wait..."
+      },
+      {
+        "review02": "Dr. Mahfuz is an amazing & dedicated Dr. I had total hip replacement in Sept of 2020. I havent felt this good in quite sometime. The staff there is very professional. I would strongly recommend him to anyone who is in need of a surgeon."
+      },
+      {
+        "review03": "He is an awesome person, i will be seeing him next week to discuss knee replacement"
+      }
+    ]
+  },
+  {
+    "category": "Sports Therapist",
+    "name": "Sports Therapy",
+    "price": 400,
+    "ratings": 5.00,
+    "ratingsCount": 225,
+    "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-9.jpg",
+    "description": "Sports physiotherapists have excellent knowledge of diagnosis of injury within a sporting context. With an early accurate diagnosis the injury can be appropriately treatment techniques.We specialise in Exercise Physiology and problemsSPORT INJURY  Acute injuries  Acute injuries occur consequently of rapid trauma to muscle, cartilage, disc, tendon or ligament. Surgical Rehabilitation Surgical is the future a mature of rehabilitation is required to construct strength, report and flexibility to ensure a safe reward to your sport and allowing you to charity at your best. Chronic injuries These injuries are often joined gone faulty biomechanics or follow an initial acute offend.",
+    "specialCare": {
+      "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
+      "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
+    },
+    "images": {
+      "img1": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
+      "img2": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
+      "img3": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
+    },
+    "reviews": [
+      {
+        "review01": "My visit was a breeze from strart to finish. Making an appointment for a visit is easy and the staff is knowledgeable and helpful"
+      },
+      {
+        "review02": "I want to write this letter and thank Dr. Mahfuz for his amazing and professional work. He performed surgery twice with an exceptional results. I am very proud to say that I am happy to know this man personally and would recommend everyone to visit him. Thank you Dr. Mahfuz."
+      },
+      {
+        "review03": "He is such a Amazing Doctor he gave me my Life Back I have been sending people to him"
+      }
+    ]
+  },
+  {
+    "category": "Acupuncture",
+    "name": "Acupuncture",
+    "price": 500,
+    "ratings": 4.89,
+    "ratingsCount": 225,
+    "img": "http://jituchauhan.com/physiotherapy/physiotherapy-blue/images/service-6.jpg",
+    "description": "Acupuncture is a process which stimulates points on the body using fine needles, finger or hand pressure to affect physical & mental health.It is also useful for clearing up pain issues and for managing stress relief and chronic and acute conditions. Our skilled physiotherapists and myotherapists can identify where the knots in the muscles are and use dry needling to compliment other manual treatment to speed up your recovery.if your physiotherapist believes it will help to improve the effectiveness of your overall treatment. Your treatment will consist of the insertion of fine needles into various sites on the body, dependent on your issues.",
+    "specialCare": {
+      "care1": "We send a doctor to visit the patient at home to diagnose and treat the illnesses. He or she may also periodically review the home health care needs.",
+      "care2": "The most common form of home health care. It is a type of nursing care that depends on the individual needs. Through consultation with the doctor, a registered nurse will set up a plan of care."
+    },
+    "images": {
+      "img1": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image1.jpg",
+      "img2": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image2.jpg",
+      "img3": "http://demo2.themelexus.com/drchanges/wp-content/uploads/2019/04/service-gallery-image3.jpg"
+    },
+    "reviews": [
+      {
+        "review01": "Dr. Mahfuz did both of my hip replacement and feel so good like my old self and every time I go to his office his staff are so professional I would recommend him to all my friends and relatives"
+      },
+      {
+        "review02": "I have been with Dr. Mahfuz for 1 year,he is very professional and has such an easy way of him I was very comfortable with,he explained everything I needed to know where I could understand my knee surgery. Always with a smile"
+      },
+      {
+        "review03": "I am very happy that I chose Dr. Mahfuz, I had a total knee replacement done in 2016 and it was very successful. Thanks to him I can now enjoy playing with my grandchildren, he changed my life and I am so greateful I met and trusted him. Steven N."
+      }
+    ]
+  }
 ]

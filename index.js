@@ -16,8 +16,7 @@ app.get('/', (req, res)=>{
 })
 
 
-// tour-website
-// bFcWgbv55P3wEgfo
+
 
 
 const uri = `mongodb+srv://${process.env.USER_NAME}:${process.env.USER_PASSWORD}@cluster0.h3zxwhp.mongodb.net/?retryWrites=true&w=majority`;
@@ -31,7 +30,7 @@ function run (){
         const myServiceCollection = client.db("doctorHub").collection("my-services")
         const myReviewCollection = client.db("doctorHub").collection("my-review")
 
-        // 3 tour collections
+        // 3 service collections
         app.get('/services', async(req, res)=>{
             const query = {}
             const cursor = servicesCollection.find(query).limit(3)
@@ -39,7 +38,7 @@ function run (){
             res.send(service)
         })
 
-           // 3 tour collections
+           // 3 service collections
         app.get('/services-collection', async(req, res)=>{
             const query = {}
             const cursor = servicesCollection.find(query)
@@ -66,6 +65,14 @@ function run (){
           // Get api for my service
 
         app.get('/my-service', async(req, res)=>{
+            let query = {}
+
+            if(req.query.email){
+                query ={
+                    email: req.query.email
+                }
+            }
+
             const cursor = myServiceCollection.find({})
             const service = await cursor.toArray()
             res.send(service)
@@ -88,6 +95,37 @@ function run (){
             res.send(review)
         })
 
+        app.put('/my-review/:id', async(req, res)=>{
+            const id = req.params.id
+            const filterReview = {_id: ObjectId(id)};
+            const review = req.body
+
+            console.log(review);
+            const option = {upsert: true}
+            const updatedReview = {
+                $set: {
+                    review: review.review
+                }
+            }
+            const result = await myReviewCollection.updateOne(filterReview, updatedReview, option)
+            res.send(result)
+
+        })
+
+        app.delete('/my-review/:id', async(req, res)=>{
+            const id = req.params.id
+            const query = {_id: ObjectId(id)}
+            console.log('trying to delete', id);
+            const result = await myReviewCollection.deleteOne(query)
+            res.send(result)
+        })
+
+        app.get('/my-review/:id', async (req, res)=>{
+            const id = req.params.id
+            const query = {_id: ObjectId(id)}
+            const review = await myReviewCollection.findOne(query)
+            res.send(review)
+        })
     }
     finally{
 
@@ -96,5 +134,5 @@ function run (){
 run()
 
 app.listen(port, ()=>{
-    console.log(`Tour Server is running on port: ${port}`);
+    console.log(`Doctor Hub Server is running on port: ${port}`);
 })
