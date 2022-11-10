@@ -91,11 +91,29 @@ function run (){
 
           // Get api for my review
 
-          app.get('/my-review', async(req, res)=>{
-            const cursor = myReviewCollection.find({})
-            const review = await cursor.toArray()
-            res.send(review)
+        //   app.get('/my-review', async(req, res)=>{
+        //     const cursor = myReviewCollection.find({})
+        //     const review = await cursor.toArray()
+        //     res.send(review)
+        // })
+
+
+        app.get('/my-review', async(req, res)=>{
+            // console.log(req.query.email);
+
+            let query = {}
+
+            if(req.query.email){
+                query = {
+                    email: req.query.email
+                }
+            }
+
+            const cursor = myReviewCollection.find(query)
+            const result = await cursor.toArray()
+            res.send(result)
         })
+
 
         app.put('/my-review/:id', async(req, res)=>{
             const id = req.params.id
