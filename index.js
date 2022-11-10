@@ -65,15 +65,17 @@ function run (){
           // Get api for my service
 
         app.get('/my-service', async(req, res)=>{
+            // console.log(req.query.email);
+
             let query = {}
 
             if(req.query.email){
-                query ={
+                query = {
                     email: req.query.email
                 }
             }
 
-            const cursor = myServiceCollection.find({})
+            const cursor = myServiceCollection.find(query)
             const service = await cursor.toArray()
             res.send(service)
         })
@@ -136,3 +138,47 @@ run()
 app.listen(port, ()=>{
     console.log(`Doctor Hub Server is running on port: ${port}`);
 })
+
+
+
+
+
+
+
+
+
+// app.get('/my-review', async(req, res)=>{
+    
+// })
+
+// app.put('/my-review/:id', async(req, res)=>{
+//     const id = req.params.id
+//     const filterReview = {_id: ObjectId(id)};
+//     const review = req.body
+
+//     console.log(review);
+//     const option = {upsert: true}
+//     const updatedReview = {
+//         $set: {
+//             review: review.review
+//         }
+//     }
+//     const result = await myReviewCollection.updateOne(filterReview, updatedReview, option)
+//     res.send(result)
+
+// })
+
+// app.delete('/my-review/:id', async(req, res)=>{
+//     const id = req.params.id
+//     const query = {_id: ObjectId(id)}
+//     console.log('trying to delete', id);
+//     const result = await myReviewCollection.deleteOne(query)
+//     res.send(result)
+// })
+
+// app.get('/my-review/:id', async (req, res)=>{
+//     const id = req.params.id
+//     const query = {_id: ObjectId(id)}
+//     const review = await myReviewCollection.findOne(query)
+//     res.send(review)
+// })
